@@ -6,3 +6,4 @@ _
 ### Datos personales:
 - Nacionalidad: Ucraniana
 - Edad: 28 años
+- Sexo: Masculino
