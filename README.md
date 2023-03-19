@@ -7,9 +7,23 @@
 _
 
 ### Datos personales:
-- Nacionalidad: **Ucraniana**                    
+- Nacionalidad: Ucraniana                    
 - Edad: 28 años
 - Sexo: Masculino
+
+_
+
+Nacido en Rivne, Ucrania en 1994, en 1999 inmigramos a Argentina la mayoría de mi familia y yo. Ahora vivo y trabajo en la ciudad de Pilar. Algunos de mis hobbies son ver series, jugar juegos de PC y leer. Ahora mismo estoy leyendo la saga de **Malaz: El Libro de los Caídos** de Steven Erikson.
+
+Algunos de mis autores favoritos:
+- Brandon Sanderson
+- Robert Jordan
+- Andrzej Sapkowski
+- George R.R. Martin
+- Pierce Brown
+
+> *"Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino."*
+>>>>>>>>>>>>>Brandon Sanderson
 
 _
 
