@@ -1,0 +1,23 @@
+{
+  "name": "presentacion",
+  "version": "1.0.0",
+  "description": "![Ucrania](./imagenes/ucrania.png)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlko23/Presentacion.git"
+  },
+  "author": "Zlko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlko23/Presentacion/issues"
+  },
+  "homepage": "https://github.com/zlko23/Presentacion#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
