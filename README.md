@@ -13,7 +13,7 @@ _
 
 _
 
-Nacido en Rivne, Ucrania en 1994, en 1999 inmigramos a Argentina la mayoría de mi familia y yo. Ahora vivo y trabajo en la ciudad de Pilar. Algunos de mis hobbies son ver series, jugar juegos de PC y leer. Ahora mismo estoy leyendo la saga de **Malaz: El Libro de los Caídos** de Steven Erikson.
+Nacido en Rivne, Ucrania en 1994. En 1999 inmigramos a Argentina la mayoría de mi familia y yo. Ahora vivo y trabajo en la ciudad de Pilar. Algunos de mis hobbies son ver series, jugar juegos de PC y leer. Ahora mismo estoy leyendo la saga de **Malaz: El Libro de los Caídos** de Steven Erikson.
 
 Algunos de mis autores favoritos:
 - Brandon Sanderson
@@ -23,7 +23,7 @@ Algunos de mis autores favoritos:
 - Pierce Brown
 
 > *"Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino."*
->>>>>>>>>>>>>Brandon Sanderson
+>>Brandon Sanderson
 
 _
 
