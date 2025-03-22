@@ -27,7 +27,9 @@ Algunos de mis autores favoritos:
 
 _
 
-### Datos de contacto y links a las páginas de nuestros productos:
+### Tabajo en las empresas que producen los artículos de las marcas Aretha para mujer y Andros para hombres.
+
+## Datos de contacto y links a las páginas de nuestros productos:
     
 E-mails: dantonyuk@aretha.com.ar / sistemas@aretha.com.ar
 
@@ -41,4 +43,4 @@ Teléfono: (5411)  2152 - 6755
 
 _
 
->Fecha de última modificación: 20/03/2023
+>Fecha de última modificación: 23/03/2025
