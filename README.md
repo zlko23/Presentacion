@@ -8,7 +8,7 @@ _
 
 ### Datos personales:
 - Nacionalidad: Ucraniana                    
-- Edad: 28 años
+- Edad: 30 años
 - Sexo: Masculino
 
 _
@@ -31,7 +31,7 @@ _
     
 E-mails: dantonyuk@aretha.com.ar / sistemas@aretha.com.ar
 
-Teléfono: (5411)  2152 - 6751
+Teléfono: (5411)  2152 - 6755
 
 [https://www.aretha.com.ar](https://www.aretha.com.ar)
 
