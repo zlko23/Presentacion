@@ -2,6 +2,8 @@
 
 ![Ucrania](./imagenes/ucrania.png)
 
+![Foto](./imagenes/foto.png)
+
 
 
 ## Administrador de Sistemas en Kaloz S.A. y Hinck S.A.
