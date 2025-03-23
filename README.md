@@ -1,17 +1,14 @@
-# DMYTRO ANTONYUK       
-
-![Ucrania](./imagenes/ucrania.png)
-
-![Foto](./imagenes/foto.jpg)
-
-
+# DMYTRO ANTONYUK .      
 
 ## Administrador de Sistemas en Kaloz S.A. y Hinck S.A.
 ## Estudiante de Gestión de Tecnologías de la Información
+
+![Foto](./imagenes/foto.jpg)
+
 _
 
 ### Datos personales:
-- Nacionalidad: Ucraniana                    
+- Nacionalidad: Ucraniana  ![Ucrania](./imagenes/ucrania.png)                  
 - Edad: 30 años
 - Sexo: Masculino
 
