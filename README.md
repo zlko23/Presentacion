@@ -22,9 +22,9 @@ Algunos de mis autores favoritos:
 - George R.R. Martin
 - Pierce Brown -
  -
-> *"Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino."*
->>Brandon Sanderson
-
+> *"Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino."* - 
+>>Brandon Sanderson -
+ -
 _
 
 ### Tabajo en las empresas que producen los artículos de las marcas Aretha para mujer y Andros para hombres.
