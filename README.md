@@ -2,7 +2,7 @@
 
 ![Ucrania](./imagenes/ucrania.png)
 
-![Foto](./imagenes/foto.png)
+![Foto](./imagenes/foto.jpg)
 
 
 
