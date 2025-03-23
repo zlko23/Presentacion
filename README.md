@@ -20,8 +20,8 @@ Algunos de mis autores favoritos:
 - Robert Jordan
 - Andrzej Sapkowski
 - George R.R. Martin
-- Pierce Brown
-
+- Pierce Brown -
+ -
 > *"Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino."*
 >>Brandon Sanderson
 
@@ -40,13 +40,12 @@ E-mails: dantonyuk@aretha.com.ar / sistemas@aretha.com.ar
 
 Teléfono: (5411)  2152 - 6755
 
-[https://www.aretha.com.ar](https://www.aretha.com.ar) -
- -
-[https://www.andros.com.ar](https://www.andros.com.ar) -
- -
-![Marcas](./imagenes/imagen.png "Aretha y Andros") -
- -
-_  -
- -
->Fecha de última modificación: 23/03/2025 -
- -
+[https://www.aretha.com.ar](https://www.aretha.com.ar)
+
+[https://www.andros.com.ar](https://www.andros.com.ar)
+
+![Marcas](./imagenes/imagen.png "Aretha y Andros")
+
+_
+
+>Fecha de última modificación: 23/03/2025
