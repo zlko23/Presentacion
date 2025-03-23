@@ -1,17 +1,15 @@
-# DMYTRO ANTONYUK .      
+# DMYTRO ANTONYUK
 
 ## Administrador de Sistemas en Kaloz S.A. y Hinck S.A.
 ## Estudiante de Gestión de Tecnologías de la Información
 
 ![Foto](./imagenes/foto.jpg)
 
-_
-
 ### Datos personales:
-- Nacionalidad: Ucraniana  ![Ucrania](./imagenes/ucrania.png)                  
-- Edad: 30 años
-- Sexo: Masculino
-
+- Nacionalidad: Ucraniana .
+- Edad: 30 años .
+- Sexo: Masculino .
+![Ucrania](./imagenes/ucrania.png)
 _
 
 Nacido en Rivne, Ucrania en 1994. En 1999 inmigramos a Argentina la mayoría de mi familia y yo. Ahora vivo y trabajo en la ciudad de Pilar. Algunos de mis hobbies son ver series, jugar juegos de PC y leer. Ahora mismo estoy leyendo la saga de **Malaz: El Libro de los Caídos** de Steven Erikson.
