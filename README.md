@@ -29,6 +29,11 @@ _
 
 ### Tabajo en las empresas que producen los artículos de las marcas Aretha para mujer y Andros para hombres.
 
+He trabajado con los siguientes lenguajes:
+- C
+- Transact-SQL
+- TypeScript
+
 ## Datos de contacto y links a las páginas de nuestros productos:
     
 E-mails: dantonyuk@aretha.com.ar / sistemas@aretha.com.ar
