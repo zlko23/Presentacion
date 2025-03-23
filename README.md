@@ -1,6 +1,7 @@
 # DMYTRO ANTONYUK       
-
+![Foto](./imagenes/foto.png)
 ![Ucrania](./imagenes/ucrania.png)
+
 
 ## Administrador de Sistemas en Kaloz S.A. y Hinck S.A.
 ## Estudiante de Gestión de Tecnologías de la Información
